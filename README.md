@@ -41,7 +41,8 @@ Same way , add the remaining parts and adjust them using Scale and x,y,z coordin
 
 ## The Results !!
 Follwing the previous steps resulted in constructing the arm correctly as follows:
-![image](https://user-images.githubusercontent.com/85634099/126075444-d4c28caa-727c-48a9-a6bc-7ba88b1ba0e3.png)
+
+![image](https://user-images.githubusercontent.com/85634099/126075605-2f89f36c-77df-4ab8-be0e-12eb9f9f7b7e.png)
 
 And to save the arm as an STL file go to File >> Export >> STL
 
