@@ -25,6 +25,7 @@ Once you open the program you will start with a plain environment, and to add th
 
 #### B) Connecting THe Parts
 To connect one part with another go to File >> Merge Project >> choose the arm part you want to add , (ex: connecting Base with Waist)
+
 ![image](https://user-images.githubusercontent.com/85634099/126075159-0902bc6c-9723-4e20-9224-ddd019665cee.png)
 
 
